@@ -43,6 +43,11 @@ To preview the production build locally, run:
 npm run preview
 ```
 
+## Demo
+
+Check out the live demo of the Tenzies game here:
+[Tenzies Game Demo](https://tenziesgame-jatin.netlify.app/)
+
 ## Technologies Used
 - **React**: A JavaScript library for building user interfaces.
 - **Vite**: A fast build tool for modern web projects.
